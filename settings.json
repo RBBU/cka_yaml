@@ -1,0 +1,10 @@
+
+"jupyter.interactiveWindow.textEditor.executeSelection": true,
+"python.defaultInterpreterPath": "/bin/python3",
+"yaml.schemas": {
+
+
+    "kubernetes": "*.yaml"
+
+}
+}
